@@ -1,7 +1,7 @@
 
 # Angular15TicTacToe
 
-Deployed on : https://angular-15-tic-tac-toe.web.app/ 
+Tic-Tac-Toe game can be found on the following link: : https://angular-15-tic-tac-toe.web.app/ 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.8.
 
